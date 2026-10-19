@@ -21,7 +21,6 @@ window.AUDIO_MAP = {
   '3.3': {file:'audio/3.3.mp3', label:'Pista 3.3 · p.19 ej.3 Maribel의 가족사진'},
   '4.1': {file:'audio/4.1.mp3', label:'Pista 4.1 · p.20 ej.3 ¿En qué trabajas?'},
   '4.2': {file:'audio/4.2.mp3', label:'Pista 4.2 · p.22 ej.5·6 Carmen과 Mateo의 취향'},
-  '4.3': {file:'audio/4.3.mp3', label:'Pista 4.3 · p.24 ej.7 가까운 사람들'},
   '5.1': {file:'audio/5.1.mp3', label:'Pista 5.1 · p.26 ej.4 스페인 사람들의 습관 조사'},
   '5.2': {file:'audio/5.2.mp3', label:'Pista 5.2 · p.28 ej.4·5 식습관 이야기'},
   'u5-precios':{file:'audio/u5-precios.mp3',label:'p.31 ej.1 가격 읽기'},

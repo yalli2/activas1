@@ -6,8 +6,8 @@
 - `data/unitN.js` 문제/정답 · `data/audio-map.js` 듣기 파일 연결
 - 점수는 학생 브라우저(localStorage)에만 저장됩니다.
 
-## 듣기 파일
-`audio/README.md` 참고.
+
+`audio/`에 합성 음원이 들어 있습니다 (audio/README.md 참고).
 
 ## GitHub Pages
 Settings → Pages → Branch `main` / root 선택 후 저장.
